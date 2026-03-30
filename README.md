@@ -1,4 +1,4 @@
-# 🩺 Healthcare-risk-prediction-model
+# 🩺 Healthcare-Risk-Prediction-Model
 
 ## 📌 Overview
 
@@ -94,10 +94,10 @@ The system uses trained classification models on healthcare datasets and provide
 
 ```bash
 # Clone the repository
-git clone https://github.com/vaishnavigondage/Healthcare-risk-prediction-model.git
+git clone https://github.com/vaishnavigondage/Healthcare-Risk-Prediction-Model.git
 
 # Navigate to project folder
-cd Healthcare-risk-prediction-model
+cd Healthcare-Risk-Prediction-Model
 
 # Install dependencies
 pip install -r requirements.txt
